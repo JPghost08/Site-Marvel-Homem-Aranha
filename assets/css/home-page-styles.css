@@ -1,0 +1,21 @@
+@import url('reset.css'); /* pegando as configurações dos arquivos já criados */
+@import url('global.css');
+.s-menu {
+    padding: 1rem 0;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.s-menu_item {
+    display: inline-block;
+    text-transform: uppercase;
+    margin: 0 1.25rem;
+}
+
+
+.s-menu_icon {
+    width: 2.5rem;
+    margin: 0 1.25rem;
+    vertical-align: middle;
+}
